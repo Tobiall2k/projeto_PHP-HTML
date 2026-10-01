@@ -1,0 +1,252 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    border: 0px;
+}
+
+body {
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    background-color: #F2E6D8;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#F2E6D8 ;
+    height: 100px;
+}
+
+main {
+    background-color: #F2E6D8;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #3C4024;
+    color: white;
+    text-align: center;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+
+.nav_tt {
+    padding: 15px;
+    margin: 10px;
+    text-decoration: none;
+    color: #3C4024;
+    font-weight: bold;
+}
+
+.img_logo{
+    width: 130px;
+    margin: 0px;
+}
+
+.cardapio{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.4);
+    background-color: #3C4024 ;
+    height:260px;
+    width: 100%;
+    color: white;
+    font-weight: bold;
+
+}
+
+.h1cardapio{
+    margin-left: 20px;
+    border-left: 50px;
+}
+
+.titulo_cardapio{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-size: 2em;
+}
+
+.pratos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+    
+}
+
+.img_produtos {
+    margin: 30px;
+    border-radius: 10%;
+}
+
+.sobremesas {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bebidas {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.prato_ancho{
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+    
+}
+
+.prato_carbonara{
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+}
+
+.prato_feijoada{
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+}
+
+.prato_salada {
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+}
+
+.prato_brownie {
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+}
+
+.petit_gateau{
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+}
+
+.coca-cola{
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+}
+
+.sprite{
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+    
+}
+
+.agua_gas{
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+}
+
+.agua{
+    text-align: center;
+    background-color: #3C4024;
+    color: #D3AF37;
+    font-weight: bold;
+    border: 4px solid #2f3122;
+    border-radius: 10%;
+}
+
+.h2foot{
+    font-size: 1em;
+}
+
+:hover.prato_ancho{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.prato_carbonara{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.prato_feijoada{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.prato_salada{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.petit_gateau{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.prato_brownie{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.coca-cola{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.sprite{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.agua{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+:hover.agua_gas{
+    width: 325px;
+    box-shadow: 0 5px 30px #303125;
+}
+
+
+
+
+
+
+
